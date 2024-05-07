@@ -6,10 +6,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "testing docusaurus,
+  title: "testing docusaurus",
   tagline: "",
   url: "https://artgur.github.io",
-  baseUrl: "/docu-impoty/",
+  baseUrl: "/notion-sync/",
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
